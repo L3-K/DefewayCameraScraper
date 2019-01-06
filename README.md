@@ -1,6 +1,5 @@
 # Defeway Camera Scraper
-Load file of Defeway IPs and retrieves snapshots for all cameras 
-Reads in IPs from `IP.txt`
+Load file of Defeway IPs and retrieves snapshots for all cameras.
 
 Requires:
 - Selenium 
