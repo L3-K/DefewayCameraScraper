@@ -1,2 +1,2 @@
 # DefewayCameraScraper
-Retrieves Snapshots from Defeway IPs
+Load file of Defeway IPs and retrieves snapshots for all cameras 
